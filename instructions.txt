@@ -1,0 +1,19 @@
+“The Silly Programming Challenge” 
+in order to see some code and basic fluency with the technology stack involved.
+Graph The Donald
+We all know that @therealDonaldTrump is the sole and only source of information that is decisively not Fake News, unlike the socialist leftist media out there. It is just a fact.
+We love Big Orange so much that we would like to create a multi-dimensional depiction of his tweets over time.
+By using the data here (see sample link below), your flawless creation must download all of his tweets from 2014 to date, and graph them over time for everyone to marvel at their incredible awesomeness. 
+* Use GoLang or NodeJS
+ + Download the JSONs and put them in a Mongo for a datastore
+* Use React or any other frontend framework for the browser-end of things
+* Make several graphs out of the data (we love HighCharts, but anything goes)
+ + Tweets over time / # of retweets / favorites / etc
+ + Tweets by time of day (this one is tricky, but we want to see how you would go about visualizing things)
+We like to indulge people to do silly things, so - a Huge plus will be to show us how you do the following:
++ Finding a correlation between sentiment and time of day (eg, is he angrier in the mornings, or does he tone down after lunch?), 
++ predictive models (what timeslots is he more likely to tweet tomorrow) 
++ or anything of the sort that is crazy would qualify.
+Twitter Archive sample call for year 2020:
+
+http://trumptwitterarchive.com/data/realdonaldtrump/2020.json
